@@ -3379,6 +3379,19 @@
   "faucets": [],
   "infoURL": "https://gesoten.com/"
 }, {
+  "name": "Boyaa Mainnet",
+  "chainId": 434,
+  "shortName": "BYC",
+  "networkId": 434,
+  "nativeCurrency": {
+    "name": "Boyaa mainnet native coin",
+    "symbol": "BYC",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-rpc.mainnet.boyaa.network"],
+  "faucets": [],
+  "infoURL": "https://boyaa.network"
+}, {
   "name": "Ten Testnet",
   "chainId": 443,
   "shortName": "ten-testnet",
@@ -5251,6 +5264,19 @@
   "faucets": ["https://wallet.test.wemix.com/faucet"],
   "infoURL": "https://wemix.com"
 }, {
+  "name": "B2 Hub Habitat Testnet",
+  "chainId": 1113,
+  "shortName": "B2Hub-testnet",
+  "networkId": 1113,
+  "nativeCurrency": {
+    "name": "BSquared Token",
+    "symbol": "BSQ",
+    "decimals": 18
+  },
+  "rpc": ["https://habitat-hub-rpc.bsquared.network"],
+  "faucets": [],
+  "infoURL": "https://www.bsquared.network"
+}, {
   "name": "Core Blockchain Testnet",
   "chainId": 1115,
   "shortName": "tcore",
@@ -5289,6 +5315,19 @@
   "rpc": ["https://mainnet-rpc.dogcoin.me"],
   "faucets": ["https://faucet.dogcoin.network"],
   "infoURL": "https://dogcoin.network"
+}, {
+  "name": "B2 Habitat Testnet",
+  "chainId": 1123,
+  "shortName": "B2-testnet",
+  "networkId": 1123,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": ["https://b2habitat-testnet.alt.technology", "https://habitat-rpc.bsquared.network", "https://habitat-rpc-public.bsquared.network"],
+  "faucets": [],
+  "infoURL": "https://www.bsquared.network"
 }, {
   "name": "DeFiChain EVM Network Mainnet",
   "chainId": 1130,
@@ -7461,6 +7500,19 @@
   "faucets": ["https://faucet.atleta.network"],
   "infoURL": "https://atleta.network"
 }, {
+  "name": "Omnia Chain",
+  "chainId": 2342,
+  "shortName": "omnia",
+  "networkId": 2342,
+  "nativeCurrency": {
+    "name": "Omnia",
+    "symbol": "OMNIA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.omniaverse.io"],
+  "faucets": ["https://www.omniaverse.io"],
+  "infoURL": "https://www.omniaverse.io"
+}, {
   "name": "(deprecated) Kroma Sepolia",
   "chainId": 2357,
   "shortName": "deprecated-kroma-sepolia",
@@ -7538,6 +7590,19 @@
   "rpc": ["https://mainnet.xo-dex.com/rpc", "https://xo-dex.io"],
   "faucets": [],
   "infoURL": "https://xo-dex.com"
+}, {
+  "name": "King Of Legends Devnet",
+  "chainId": 2425,
+  "shortName": "kol",
+  "networkId": 2425,
+  "nativeCurrency": {
+    "name": "King Of Legends",
+    "symbol": "KOL",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-devnet.kinggamer.org/"],
+  "faucets": [],
+  "infoURL": "https://kingoflegends.net/"
 }, {
   "name": "Polygon zkEVM Cardona Testnet",
   "chainId": 2442,
@@ -15547,6 +15612,19 @@
   "faucets": [],
   "infoURL": "https://zillnet.io"
 }, {
+  "name": "SaharaAI Testnet",
+  "chainId": 313313,
+  "shortName": "saharatest",
+  "networkId": 313313,
+  "nativeCurrency": {
+    "name": "SAHARA",
+    "symbol": "SAH",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.saharalabs.ai"],
+  "faucets": [],
+  "infoURL": "https://saharalabs.ai"
+}, {
   "name": "Filecoin - Calibration testnet",
   "chainId": 314159,
   "shortName": "filecoin-calibration",
@@ -16119,6 +16197,19 @@
   "faucets": ["https://testnet-faucet.helachain.com"],
   "infoURL": "https://helalabs.com"
 }, {
+  "name": "Won Network",
+  "chainId": 686868,
+  "shortName": "WonChain",
+  "networkId": 686868,
+  "nativeCurrency": {
+    "name": "Won",
+    "symbol": "WON",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.wonnetwork.org"],
+  "faucets": ["https://faucet.wondollars.org"],
+  "infoURL": "https://wonnetwork.org"
+}, {
   "name": "Galadriel Devnet",
   "chainId": 696969,
   "shortName": "galadriel-devnet",
@@ -16612,6 +16703,19 @@
   "rpc": ["https://sc-rpc.dpu.ac.th"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "SaharaAI Network",
+  "chainId": 3132023,
+  "shortName": "sahara",
+  "networkId": 3132023,
+  "nativeCurrency": {
+    "name": "SAHARA",
+    "symbol": "SAH",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.saharalabs.ai"],
+  "faucets": [],
+  "infoURL": "https://saharalabs.ai"
 }, {
   "name": "Filecoin - Butterfly testnet",
   "chainId": 3141592,
